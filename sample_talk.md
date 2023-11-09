@@ -4,14 +4,11 @@
 * [Slides](./Slides/sampleslides.pptx)
 
 
-## Llewellyn's <!-- include: your_bio.md -->
+## Your Name<!-- include: your_bio.md -->
 
-* [Blog](https://llewellynfalco.blogspot.com/)
-* [ApprovalTests](https://github.com/approvals/)
-* [YouTube](https://www.youtube.com/user/isidoreus/videos)
-* [Twitch](https://www.twitch.tv/llewellynfalco)
-* [Learn With Llew](https://github.com/LearnWithLlew)
+* [Your Blog](https://you.blogspot.com/)
+* [Your Others links](https://google.com/you)
 
-I'm a Technical Agile Coach. You can [hire me](http://llewellynfalco.blogspot.com/p/hire-me.html)
- <!-- endInclude -->
+A bit about you
+<!-- endInclude -->
 
